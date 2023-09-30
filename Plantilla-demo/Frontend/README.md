@@ -2,7 +2,8 @@
 
 Landing Page
 ------
-![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-1.png)
+![image](https://github.com/AlexisChasi/repo-rep/assets/117754026/95364ec5-b335-4c25-b411-41ca8e706781)
+
 
 
 Login
